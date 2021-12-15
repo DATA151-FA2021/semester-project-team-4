@@ -1,3 +1,3 @@
 # Part 4 Deliverables
 
-Add information about Part 1 here
+This layer includes our final presentation, the code used in our presentation, and the final draft of our research paper.
