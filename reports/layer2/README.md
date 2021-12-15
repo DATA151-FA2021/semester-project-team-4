@@ -1,3 +1,3 @@
 # Part 2 Deliverables
 
-Add information about Part 1 here
+This layer includes our report and presentation about the Exploratory Data Analysis.
